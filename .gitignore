@@ -1,0 +1,25 @@
+# Vivado project/generated files
+*.jou
+*.log
+*.str
+*.zip
+*.xpr
+*.cache/
+*.runs/
+*.sim/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.srcs/
+*.sdk/
+*.Xil/
+
+# Simulation output
+*.vcd
+*.wdb
+*.wcfg
+
+# Temporary files
+*.tmp
+*.swp
+*~
